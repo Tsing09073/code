@@ -20,10 +20,12 @@ git clone https://github.com/Tsing09073/code.git
  #所有调用的端口都是5000
 
 ```
-### 运行用倒数第二个插件，用其他插件会导致有些东西加载不出来
-![image](./Znotes/te.png)
+
+图片失效的话 看znotes文件中，分别对应。
 
 ### 首页
 ![home](./Znotes/star1.png)
 ### 管理界面
 ![management](./Znotes/star2.png)
+### 运行用倒数第二个插件，用其他插件会导致有些东西加载不出来
+![image](./Znotes/te.png)
