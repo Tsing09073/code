@@ -11,7 +11,7 @@
 ## 项目运行（node v18.17.1）
 ``` bash
 # 克隆到本地
-git clone [https://github.com/bailicangdu/vue2-happyfri.git](https://github.com/Tsing09073/code.git)
+git clone https://github.com/Tsing09073/code.git
 
 
 # 安装依赖
