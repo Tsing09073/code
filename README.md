@@ -26,4 +26,4 @@ git clone https://github.com/Tsing09073/code.git
 ### 首页
 ![home](./Znotes/star1.png)
 ### 管理界面
-![management](./Znotes/star2.png)
+![management](./Znotes/star1.png)
